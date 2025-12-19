@@ -1,97 +1,97 @@
-using System.Linq;
-using System.Runtime.InteropServices;
+//using System.Linq;
+//using System.Runtime.InteropServices;
 
-namespace Lab6
-{
-    public class Green
-    {
-        public void Task1(ref int[] A, ref int[] B)
-        {
+//namespace Lab6
+//{
+//    public class Green
+//    {
+//        public void Task1(ref int[] A, ref int[] B)
+//        {
 
-            // code here
+//            // code here
 
-            // end
+//            // end
 
-        }
-        public void Task2(int[,] matrix, int[] array)
-        {
+//        }
+//        public void Task2(int[,] matrix, int[] array)
+//        {
 
-            // code here
+//            // code here
 
-            // end
+//            // end
 
-        }
-        public void Task3(int[,] matrix)
-        {
+//        }
+//        public void Task3(int[,] matrix)
+//        {
 
-            // code here
+//            // code here
 
-            // end
+//            // end
 
-        }
-        public void Task4(ref int[,] matrix)
-        {
+//        }
+//        public void Task4(ref int[,] matrix)
+//        {
 
-            // code here
+//            // code here
 
-            // end
+//            // end
 
-        }
-        public int[] Task5(int[,] matrix)
-        {
-            int[] answer = null;
+//        }
+//        public int[] Task5(int[,] matrix)
+//        {
+//            int[] answer = null;
 
-            // code here
+//            // code here
 
-            // end
+//            // end
 
-            return answer;
-        }
-        public int[] Task6(int[,] A, int[,] B)
-        {
-            int[] answer = null;
+//            return answer;
+//        }
+//        public int[] Task6(int[,] A, int[,] B)
+//        {
+//            int[] answer = null;
 
-            // code here
+//            // code here
 
-            // end
+//            // end
 
-            return answer;
-        }
-        public void Task7(int[,] matrix, Sorting sort)
-        {
+//            return answer;
+//        }
+//        public void Task7(int[,] matrix, Sorting sort)
+//        {
 
-            // code here
+//            // code here
 
-            // end
+//            // end
 
-        }
-        public int Task8(double[] A, double[] B)
-        {
-            int answer = 0;
+//        }
+//        public int Task8(double[] A, double[] B)
+//        {
+//            int answer = 0;
 
-            // code here
+//            // code here
 
-            // end
+//            // end
 
-            return answer;
-        }
-        public void Task9(int[,] matrix, Action<int[]> sorter)
-        {
+//            return answer;
+//        }
+//        public void Task9(int[,] matrix, Action<int[]> sorter)
+//        {
 
-            // code here
+//            // code here
 
-            // end
+//            // end
 
-        }
-        public double Task10(int[][] array, Func<int[][], double> func)
-        {
-            double res = 0;
+//        }
+//        public double Task10(int[][] array, Func<int[][], double> func)
+//        {
+//            double res = 0;
 
-            // code here
+//            // code here
 
-            // end
+//            // end
 
-            return res;
-        }
-    }
-}
+//            return res;
+//        }
+//    }
+//}
